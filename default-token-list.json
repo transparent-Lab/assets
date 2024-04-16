@@ -1,0 +1,23 @@
+{
+  "name": "SWAP",
+  "logoURI": "https://sit.bitsat.ai/favicon.svg",
+  "keywords": [],
+  "timestamp": "2024-04-16T12:43:34.305Z",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xdB2007ebf912dd3C05EC67EC9E9563Fd6Db9AD50",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x505f5434D8EFE8B39aA6E080083F9A9F849b40Ff",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
