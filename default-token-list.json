@@ -1,22 +1,97 @@
 {
   "name": "BITSAT",
-  "logoURI": "https://sit.bitsat.ai/favicon.svg",
+  "logoURI": "https://www.bitsat.ai/favicon.svg",
   "keywords": [],
-  "timestamp": "2024-04-16T12:43:34.305Z",
+  "timestamp": "2024-04-23T12:43:34.305Z",
   "tokens": [
     {
       "chainId": 11155111,
       "address": "0xdB2007ebf912dd3C05EC67EC9E9563Fd6Db9AD50",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": ""
     },
     {
       "chainId": 11155111,
       "address": "0x505f5434D8EFE8B39aA6E080083F9A9F849b40Ff",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": ""
+    },
+
+    {
+      "chainId": 88875,
+      "address": "0x9c8d87c0f72eb934095f199382dc4d366091fb8f",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.bitsat.ai/USDT.png"
+    },
+    {
+      "chainId": 88875,
+      "address": "0x576e2354d209ed8b223e396f18bc009541181019",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.bitsat.ai/USDC.png"
+    },
+    {
+      "chainId": 88875,
+      "address": "0xeb61c20f961de2ca291e4fb8ac3e03f466c2febe",
+      "name": "SHIBAI v3",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 88875,
+      "address": "0xb991900694D73f399bCC4D9B76d2a49dc2Cb5241",
+      "name": "Chain Link v3",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 88875,
+      "address": "0x14b09983c5fcb0abd76a6bdc8ebd3f7dd287c511",
+      "name": "Dai StableCoin v3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 88875,
+      "address": "0x9a8b74f2f8baad8482ec140f817e21fddf5c1b95",
+      "name": "Binance USD v3",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.bitsat.ai/USDT.png"
+    },
+    {
+      "chainId": 88875,
+      "address": "0x12469857a5fe7161a59a17637c9467795309864c",
+      "name": "Uniswap v3",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 88875,
+      "address": "0xed4f0afe24f2e0185089fa2b0af93fc1bc0cc73b",
+      "name": "Aave Token v3",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 88875,
+      "address": "0x7cad5f8461e44e548abf26df7d73f9c600c69d38",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://assets.bitsat.ai/bnb.png"
     }
   ],
   "version": { "major": 0, "minor": 0, "patch": 0 }
