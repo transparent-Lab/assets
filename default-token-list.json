@@ -9,18 +9,15 @@
       "address": "0xdB2007ebf912dd3C05EC67EC9E9563Fd6Db9AD50",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 11155111,
       "address": "0x505f5434D8EFE8B39aA6E080083F9A9F849b40Ff",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
-
     {
       "chainId": 88875,
       "address": "0x9c8d87c0f72eb934095f199382dc4d366091fb8f",
@@ -42,24 +39,21 @@
       "address": "0xeb61c20f961de2ca291e4fb8ac3e03f466c2febe",
       "name": "SHIBAI v3",
       "symbol": "SHIB",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 88875,
       "address": "0xb991900694D73f399bCC4D9B76d2a49dc2Cb5241",
       "name": "Chain Link v3",
       "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 88875,
       "address": "0x14b09983c5fcb0abd76a6bdc8ebd3f7dd287c511",
       "name": "Dai StableCoin v3",
       "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 88875,
@@ -74,16 +68,14 @@
       "address": "0x12469857a5fe7161a59a17637c9467795309864c",
       "name": "Uniswap v3",
       "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 88875,
       "address": "0xed4f0afe24f2e0185089fa2b0af93fc1bc0cc73b",
       "name": "Aave Token v3",
       "symbol": "AAVE",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 88875,
